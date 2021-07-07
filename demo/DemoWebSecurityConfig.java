@@ -23,3 +23,5 @@ class DemoWebSecurityConfig extends WebSecurityConfigurerAdapter {
         ;
     }
 }
+
+// dummy
